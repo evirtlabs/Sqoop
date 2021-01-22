@@ -129,3 +129,9 @@ Note: Recompile with -Xlint:deprecation for details.<br>
 ### --------------------------------------------------------------------------------------
 
 ![Alt text](/screen_shots/Screenshot_Lab1_6.png?raw=true "Simple Code on IPython Notebooks")
+
+### Verify metadata of actor table 
+![Alt text](/screen_shots/Screenshot_Lab1_7.png?raw=true "Simple Code on IPython Notebooks")
+
+### Verify data of actor table
+![Alt text](/screen_shots/Screenshot_Lab1_8.png?raw=true "Simple Code on IPython Notebooks")
