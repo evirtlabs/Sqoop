@@ -124,3 +124,7 @@ Note: Recompile with -Xlint:deprecation for details.<br>
 2020-09-07 17:50:39,335 INFO hive.HiveImport: Time taken: 1.079 seconds<br>
 2020-09-07 17:50:39,810 INFO hive.HiveImport: Hive import complete.<br>
 2020-09-07 17:50:39,834 INFO hive.HiveImport: Export directory is contains the _SUCCESS file only, removing the directory.<br>
+
+### Run Hive Command to reach Hive Prompt
+### ------------------------------------
+
