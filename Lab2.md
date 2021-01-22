@@ -90,5 +90,5 @@ Note: Recompile with -Xlint:deprecation for details.<br>
 2020-09-07 16:49:16,973 INFO mapreduce.ImportJobBase: Transferred 156.6289 KB in 36.8281 seconds (4.253 KB/sec)<br>
 2020-09-07 16:49:16,980 INFO mapreduce.ImportJobBase: Retrieved 5462 records.<br>
 [root@hadoop ~]#<br>
-
+### Verify whether table data is moved to hdfs
 ![Alt text](/screen_shots/Screenshot_Lab1_9.png?raw=true "Simple Code on IPython Notebooks")
