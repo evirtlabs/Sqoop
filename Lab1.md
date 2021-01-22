@@ -125,6 +125,7 @@ Note: Recompile with -Xlint:deprecation for details.<br>
 2020-09-07 17:50:39,810 INFO hive.HiveImport: Hive import complete.<br>
 2020-09-07 17:50:39,834 INFO hive.HiveImport: Export directory is contains the _SUCCESS file only, removing the directory.<br>
 
-### Run Hive Command to reach Hive Prompt
-### ------------------------------------
+### Run Hive Command to reach Hive Prompt and verify if actor table is transferred to Hive 
+### --------------------------------------------------------------------------------------
 
+![Alt text](/screen_shots/Screenshot_Lab1_6.png?raw=true "Simple Code on IPython Notebooks")
