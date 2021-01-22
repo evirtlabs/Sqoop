@@ -91,3 +91,4 @@ Note: Recompile with -Xlint:deprecation for details.<br>
 2020-09-07 16:49:16,980 INFO mapreduce.ImportJobBase: Retrieved 5462 records.<br>
 [root@hadoop ~]#<br>
 
+![Alt text](/screen_shots/Screenshot_Lab1_9.png?raw=true "Simple Code on IPython Notebooks")
