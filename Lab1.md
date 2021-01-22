@@ -1,3 +1,5 @@
+# Meet the Pre-Requisites
+# --------------------------
 ## Connect to Postgresql database
 ![Alt text](/screen_shots/Screenshot_Lab1_1.png?raw=true "Simple Code on IPython Notebooks")
 
