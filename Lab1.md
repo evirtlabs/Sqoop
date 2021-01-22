@@ -1,5 +1,6 @@
 # Meet the Pre-Requisites
 # --------------------------
+Sample database is located in Sqoop/data/dvdrental.zip
 ## Connect to Postgresql database
 ![Alt text](/screen_shots/Screenshot_Lab1_1.png?raw=true "Simple Code on IPython Notebooks")
 
